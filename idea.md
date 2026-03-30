@@ -2,30 +2,25 @@
 
 ## Problem
 
-Disleksi ve okuma güçlüğü yaşayan bireyler, internetteki metinleri okumakta zorlanabiliyor. Uzun cümleler, karmaşık dil, sıkışık satırlar ve standart font kullanımı bilgiye erişimi zorlaştırıyor. Bu durum özellikle eğitimde fırsat eşitsizliğini artırıyor.
+Dijital içeriklerin büyük bölümü disleksi ve okuma güçlüğü yaşayan bireyler için tasarlanmıyor. Karmaşık cümleler, uzun paragraflar ve standart görsel düzen bilgiye erişimi zorlaştırıyor. Sonuç olarak kullanıcı, okuyamadığı için öğrenemiyor ve dijital dünyada geride kalıyor.
 
 ## Kullanıcı
 
-Bu uygulamanın ana kullanıcıları:
-
-* disleksi veya okuma güçlüğü yaşayan öğrenciler
-* yoğun ve karmaşık metinleri daha kolay okumak isteyen bireyler
-* eğitim materyallerini daha erişilebilir hale getirmek isteyen öğretmenler ve aileler
+* Disleksi yaşayan öğrenciler
+* Okuma hızını ve anlama seviyesini artırmak isteyen bireyler
+* Daha erişilebilir içerik üretmek isteyen eğitimciler
 
 ## AI’ın Rolü
 
-Yapay zeka, kullanıcının yapıştırdığı metni anlamını koruyarak daha sade, kısa ve anlaşılır hale getirir. Karmaşık cümleleri bölerek daha erişilebilir bir versiyon üretir ve gerekirse kısa bir özet sunar. Kod tarafında ise görsel okunabilirlik iyileştirmeleri (font, spacing, contrast, bionic reading) klasik yazılım mantığıyla desteklenir.
+AI, karmaşık metni daha sade ve anlaşılır bir dile çevirir. Uzun cümleleri bölerek, gereksiz karmaşıklığı azaltarak ve anlamı koruyarak alternatif bir okuma versiyonu oluşturur. Böylece uygulama sadece görsel bir düzenleme aracı değil, aynı zamanda bilişsel erişilebilirlik destekçisi olur.
 
 ## Rakip Durum
 
-ChatGPT ve benzeri araçlar metni sadeleştirebilir, ancak disleksi dostu özel bir okuma deneyimi sunmaz. Tarayıcı reader mode araçları ise görsel düzenleme sağlar ama metni bilişsel olarak sadeleştirmez. ClearRead AI, bu iki ihtiyacı birleştirerek hem görsel hem anlamsal erişilebilirlik sunar.
+Genel amaçlı yapay zeka araçları metin sadeleştirme yapabilir, ancak disleksi dostu bir okuma deneyimi sunmaz. Reader mode araçları ise metni temiz gösterir ama dili sadeleştirmez. ClearRead AI, bu iki boşluğu birleştirir: hem erişilebilir arayüz hem de AI destekli metin sadeleştirme.
 
 ## Başarı Kriteri
 
-Bir kullanıcı karmaşık bir metni uygulamaya yapıştırdığında:
-
-* saniyeler içinde daha okunabilir bir versiyon görmeli
-* metin görsel olarak daha az yorucu hale gelmeli
-* temel anlam kaybolmadan daha kolay anlaşılmalı
-
-Proje başarılı sayılır, eğer kullanıcı orijinal metne göre sadeleştirilmiş versiyonu daha hızlı ve daha rahat okuyabildiğini hissederse.
+* Kullanıcı metni yapıştırdıktan sonra saniyeler içinde daha okunabilir bir sürüm almalı
+* Görsel okuma modu sayesinde metin daha az yorucu görünmeli
+* Sadeleştirilmiş sürüm, anlamı koruyarak daha anlaşılır olmalı
+* Demo sırasında jüri, orijinal metin ile ClearRead modu arasındaki farkı net şekilde görebilmeli
