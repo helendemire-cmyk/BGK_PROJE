@@ -1,6 +1,25 @@
 # 📖 ClearRead AI
 
 **ClearRead AI**, disleksi ve okuma güçlüğü çeken bireylerin dijital içerikleri daha rahat okuyabilmesi için geliştirilmiş, erişilebilirlik odaklı bir web uygulamasıdır. Metni sadece "kısaltmak" yerine, hem görsel olarak okunabilir hale getirir hem de anlamsal olarak sadeleştirir.
+## ⚡ Problem Gerçekliği
+
+Bu metni okumayı deneyin:
+
+> Fotosentez, klorofilli hücrelerde ışık enerjisinin kimyasal enerjiye dönüştürülmesi sürecidir...
+
+Birçok insan için bu sadece zor bir cümle.
+Ama disleksiye sahip biri için bu, **okunamayan bir bloktur.**
+
+---
+
+## ✨ ClearRead AI Ne Yapar?
+
+Aynı metni şuna dönüştürür:
+
+> Bitkiler, güneş ışığını kullanarak kendilerine enerji üretir.
+
+Ve bunu sadece anlamı değil, **okuma deneyimini değiştirerek yapar.**
+
 
 ## 🎯 Problem
 Dijital dünyadaki içeriklerin büyük çoğunluğu:
